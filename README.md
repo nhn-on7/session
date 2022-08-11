@@ -5,7 +5,7 @@
 
 ## profile 에 따라 Database 선택 가능
 
-1Redis
+1. Redis
 ```bash
 mvn spring-boot:run -Dspring-boot.run.profiles=redis 
 ```
